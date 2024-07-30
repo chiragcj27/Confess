@@ -35,7 +35,8 @@ const Message = () => {
           <div className="max-h-[70vh] overflow-y-auto p-4 space-y-4">
             <p className="text-xl md:text-2xl text-pink-700 font-bold font-cursive">To: Khushboo</p>
             <p className="text-sm md:text-lg text-pink-700 font-serif">
-              I really enjoy the time I spend with you and have realized that all these days we spent talking for hours daily meant something special. I can't help but have feelings for you that go beyond friendship.
+              I really enjoy the time I spend with you and have realized that all these days we spent talking for hours daily meant something special. I can't help but have feelings for you that go beyond friendship.<br/>
+              Want to make it something special, so here it goes ....
             </p>
             <blockquote className="italic text-pink-600 pl-4 border-l-4 border-pink-300 font-serif">
               "Time stands still<br />
